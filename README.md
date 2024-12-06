@@ -1,5 +1,7 @@
 # Power-BI Project
-
+## Financial Analysis Report
+This report provides a comprehensive view of financial performance segmented by products, regions, and customer segments, useful for decision-making and strategic planning.
+It provides insights into revenue, profits, expenses, and product and regional performance.
 ### Key Metrics:
 
 - Total Revenue: $119M
